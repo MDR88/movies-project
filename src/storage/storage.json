@@ -1,0 +1,11 @@
+{
+    "movieInputs": [{
+            "movieName": "movie_Name",
+            "moviePlot": "movie_plot",
+            "movieDuration": "Movie_duration",
+        }
+
+
+
+    ]
+}
